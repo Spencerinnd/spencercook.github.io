@@ -1,9 +1,3 @@
-
-# Hello World
-- [ ] Create landing page
-- [ ] Create projects page
-- [ ] Add projects to projects page
-- [ ] Add header with links to pages
 <style>
 ul {
   list-style-type: none;
@@ -24,3 +18,9 @@ li {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
+
+# Hello World
+- [ ] Create landing page
+- [ ] Create projects page
+- [ ] Add projects to projects page
+- [ ] Add header with links to pages
