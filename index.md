@@ -20,7 +20,7 @@ li a:hover:not(.active) {
 </head>
 <body>
 
-<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;>
+<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;">
   <li style="float: left;"><a class="active" href="#home">Home</a></li>
   <li style="float: left;"><a href="#news">News</a></li>
   <li style="float: left;"><a href="#contact">Contact</a></li>
