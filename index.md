@@ -31,11 +31,11 @@ li a:hover:not(.active) {
 </head>
 <body>
 
-<ul style="float: left;">
-  <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+<ul>
+  <li style="float: left;"><a class="active" href="#home">Home</a></li>
+  <li style="float: left;"><a href="#news">News</a></li>
+  <li style="float: left;"><a href="#contact">Contact</a></li>
+  <li style="float: left;"><a href="#about">About</a></li>
 </ul>
 # Hello World
 - [ ] Create landing page
