@@ -5,8 +5,12 @@ ul {
   padding: 0;
 }
 
-li {
-  display: inline;
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 </style>
 
