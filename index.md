@@ -1,3 +1,4 @@
+<html>
 <style>
 
 li a {
@@ -16,7 +17,7 @@ li a {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-
+</html>
 # Hello World
 - [ ] Create landing page
 - [ ] Create projects page
