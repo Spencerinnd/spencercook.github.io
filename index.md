@@ -6,6 +6,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: #333;
 }
 
 li {
@@ -31,7 +32,7 @@ li a:hover:not(.active) {
 
 <ul>
   <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
+  <li><a href="#projects">Projects</a></li>
   <li><a href="#contact">Contact</a></li>
   <li style="float:right"><a class="active" href="#about">About</a></li>
 </ul>
