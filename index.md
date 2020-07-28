@@ -4,11 +4,9 @@ ul {
   margin: 0;
   padding: 0;
 }
-li {
-  float: left;
-}
 
 li a {
+  float: left;
   display: block;
   color: white;
   text-align: center;
@@ -17,7 +15,11 @@ li a {
 }
 </style>
 
-<ul>
+<ul style="list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;"> 
   <li><a href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
