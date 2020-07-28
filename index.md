@@ -7,7 +7,6 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  hover: #606361
 }
 
 
