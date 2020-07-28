@@ -15,11 +15,7 @@ li a {
 }
 </style>
 
-<ul style="list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;"> 
+<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;"> 
   <li><a href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
