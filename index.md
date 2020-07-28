@@ -9,11 +9,8 @@ ul {
   background-color: #333;
 }
 
-li {
-  float: left;
-}
-
 li a {
+  float: left;
   display: block;
   color: white;
   text-align: center;
