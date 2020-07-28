@@ -9,8 +9,6 @@ li {
   display: inline;
 }
 </style>
-</head>
-<body>
 
 <ul>
   <li><a href="#home">Home</a></li>
