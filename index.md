@@ -8,10 +8,6 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
-  
-li {
-
-}
 li a {
   display: block;
   color: white;
