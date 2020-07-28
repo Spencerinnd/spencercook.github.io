@@ -33,6 +33,8 @@ li a:hover:not(.active) {
   <li style="float: left;"><a href="#contact">Contact</a></li>
   <li style="float: left;"><a href="#about">About</a></li>
 </ul>
+</body>
+</html>
 # Hello World
 - [ ] Create landing page
 - [ ] Create projects page
