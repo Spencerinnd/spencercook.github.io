@@ -10,7 +10,7 @@ ul {
 }
   
 li {
-  float: left;
+
 }
 li a {
   display: block;
@@ -31,7 +31,7 @@ li a:hover:not(.active) {
 </head>
 <body>
 
-<ul>
+<ul style="float: left;">
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
